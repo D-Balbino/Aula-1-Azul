@@ -33,8 +33,19 @@ body
     padding: 35px;
 }       
 
-.img_logo{
+.img_logo
+{
     width: 10%;
     float: left;
     padding-top: 10px;
-   }
+}
+.about-img
+{
+    margin-right: 10px;
+    width:250px; 
+    height:300px;
+    border-radius: 5px;
+    box-shadow: outset 25px grey;
+    float: left;
+}
+
